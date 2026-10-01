@@ -1,2 +1,0 @@
-# the-client
-A playground
